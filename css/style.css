@@ -1,0 +1,14 @@
+.red{color:red}
+.block{ 
+border-top: 2px solid black;
+border-right: 2px solid black;
+border-bottom:2px solid black;
+border-left:2px solid black;
+border-radius: 25px;
+
+padding-top:30px;
+padding-right:30px;
+padding-bottom:30px;
+padding-left:30px;
+width: 40%;
+height: 350px;}
